@@ -120,13 +120,3 @@ Attacks
    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    .. automodule:: torchattacks.attacks.upgd
     :members:
-    
-   TIFGSM
-   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   .. automodule:: torchattacks.attacks.tifgsm
-    :members:
-    
-   Jitter
-   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   .. automodule:: torchattacks.attacks.jitter
-    :members:
