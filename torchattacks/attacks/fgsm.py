@@ -44,6 +44,7 @@ class FGSM(Attack):
 
         images.requires_grad = True
         outputs = self.model(images)
+        print(outputs.shape)
 
         # Calculate loss
         if self._targeted:
